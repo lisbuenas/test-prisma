@@ -13,10 +13,10 @@
     "@prisma/cli": "^2.2.2",
     "@types/node": "^14.0.23",
     "ts-node": "^8.10.2",
+    "ts-node-dev": "ˆ1.0.0-pre.52",
     "typescript": "^3.9.7"
   },
   "dependencies": {
-    "@prisma/client": "^2.2.2",
-    "ts-node-dev": "^1.0.0-pre.52"
+    "@prisma/client": "^2.2.2"
   }
 }
